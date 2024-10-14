@@ -3,4 +3,4 @@
   debug:
 - name: Print a message
   debug:
-  msg: 'Hello, this is a new feature\!'
+  msg: new
