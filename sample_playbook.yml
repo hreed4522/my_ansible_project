@@ -1,1 +1,6 @@
 - hosts: localhost
+- name: Print a message
+  debug:
+- name: Print a message
+  debug:
+  msg: 'Hello, this is a new feature\!'
